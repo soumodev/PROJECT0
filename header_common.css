@@ -36,14 +36,17 @@ h2{
 }
 
 .Bottom{
-    padding-top: 350px;
+    padding-top: 300px;
+    text-align: center;
 }
 
 .content{
-    background-color: red;
-    padding: 10%;
+    padding: 25px;
     font-family: "Charmonman", sans-serif;
-    text-align: center;
     font-weight: bolder;
-    color: white;
+    color: black;
+}
+
+p:hover{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
